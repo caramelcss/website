@@ -1,9 +1,0 @@
-{
-  "dependencies": {
-    "caramel": "github:kurisubrooks/caramel#v2"
-  },
-  "name": "caramel-site",
-  "version": "1.0.0",
-  "description": "caramel site",
-  "main": ""
-}
